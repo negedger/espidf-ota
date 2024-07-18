@@ -19,7 +19,7 @@ The **ESP32 RTOS OTA Update** project implements an over-the-air (OTA) update me
 - **Description:** Implement button press and long press detection.
 
 ### Milestone 4: OTA Mode Implementation
-- **Status:** Completed
+- **Status:** Ongoing
 - **Description:** Implement HTTPS OTA mode when the button is long pressed.
 
 ### Milestone 5: Testing and Debugging
